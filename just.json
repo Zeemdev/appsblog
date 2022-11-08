@@ -1,7 +1,7 @@
 {
 "admob_banner": "d617082",
 "admob_inter": "d49482",
-"APP_KEY": "",
+"APP_KEY": "44444444",
 "BANNER_PLACEMENT": "DefaultBanner",
 "INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 "APPLOVIN_BANNER": "78888",
@@ -14,7 +14,7 @@
 "popAppIsActive": false,
 "BUTTON_NAME_1": "Begin Now",
 "BUTTON_NAME_2": "Go Show",
-"URL": "https://www.justfab.fr/",
+"URL": "https://coralcube.io/",
 "isAdsActivated1": true,
 "isAdsActivated2": true,
 "isInReview": false,
